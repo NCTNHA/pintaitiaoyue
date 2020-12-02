@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4fa7c36d8ad9a0d4abfc2967ef160efa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Liaoji: {fileID: 4925941651741915240, guid: 4ee5c815ec0781544b0b712d08dceca2,
+      type: 3}
+  - you: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
